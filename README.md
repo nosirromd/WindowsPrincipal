@@ -1,7 +1,7 @@
 
-# Utilities
+# Working with Windows Identities
 
-Small mods made to the ProfessionalCSharp7-main\Networking\NetworkingSamples\SocketServer
+Small mods made to the ProfessionalCSharp7-main\Security\WindowsPrincipal
 
 ## Description
 
